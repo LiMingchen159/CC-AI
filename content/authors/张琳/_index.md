@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 作为华东大学的教授，我专注于计算机科学和人工智能的研究。我致力于推动学术界和工业界的合作，培养下一代计算机科学家，并在人工智能领域取得创新性的成果。
 
 interests:
   - 机器学习 Machine Learning
@@ -36,21 +36,6 @@ education:
     - course: 计算机科学专业本科 BSc in Computer Science
       institution: 华东大学 East China University
       year: 2033
-
-# Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/your-twitter-handle
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=your-google-scholar-id
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/your-github-username
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
