@@ -8,10 +8,10 @@ sections:
   - block: hero
     content:
       title: |
-        赛博笑匠 \n
+        赛博笑匠 <br>
         Cyber Comedian AI
       image:
-        filename: contact.jpg
+        filename: Logo_min.png
       text: |
         <br>
         
