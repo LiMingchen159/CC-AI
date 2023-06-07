@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 作为赛博笑匠公司的首席技术官，我专注于分布式机器人、移动计算和可编程物质的研究。我致力于创造前沿科技的创新解决方案，引领团队实现科技与人类生活的融合，为创造更美好、智能化的世界努力。
 
 interests:
   - 人工智能 Artificial Intelligence
