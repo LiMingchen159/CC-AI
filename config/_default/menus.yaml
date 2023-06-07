@@ -10,7 +10,7 @@ main:
   - name: 新闻
     url: post
     weight: 20
-  - name: 董事
+  - name: 团队
     url: people
     weight: 30
   - name: 产品
