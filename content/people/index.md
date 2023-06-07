@@ -7,12 +7,12 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: 我们的团队 Meet the Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigators
-          - 管理者 Admin
+          - 管理者 Administration
           - Grad Students
           - Administration
           - Visitors

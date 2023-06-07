@@ -69,9 +69,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 管理者 Admin
+  - 管理者 Administration
 ---
 
-作为**赛博笑匠**公司的首席技术官，我专注于分布式机器人技术、移动计算和可编程物质的研究。我的使命是推动科技的前沿，创造出前所未有的创新解决方案。在分布式机器人领域，我致力于开发智能、协作和高效的机器人系统，以应对现代社会的多样化需求。在移动计算方面，我致力于提供无处不在的计算能力，将智能科技融入到我们的日常生活中，为人们带来便捷和智能化的体验。而在可编程物质领域，我探索着创新的材料和技术，致力于开发能够自主变形和适应环境的材料，为未来的科技发展开辟新的可能性。我引领着一支充满激情和创造力的团队，致力于将科技与人类生活融合，创造出引人注目且具有深远影响的技术创新。作为**赛博笑匠**公司的首席技术官，我热衷于推动科技的边界，将未来的愿景转化为现实，并为人们创造出更美好、更智能的世界。
+作为**赛博笑匠**公司的首席技术官，我专注于分布式机器人、移动计算和可编程物质的研究。我致力于创造前沿科技的创新解决方案，引领团队实现科技与人类生活的融合，为创造更美好、智能化的世界努力。
 
-As the Chief Technology Officer of **Cyber Comedian**, I focus on researching distributed robotics, mobile computing, and programmable matter. My mission is to drive the forefront of technology and create unprecedented innovative solutions. In the field of distributed robotics, I strive to develop intelligent, collaborative, and efficient robotic systems to meet the diverse needs of modern society. In the realm of mobile computing, I aim to provide ubiquitous computing power, integrating smart technology into our daily lives, and bringing convenience and intelligence to people's experiences. In the domain of programmable matter, I explore innovative materials and technologies, dedicated to developing materials that can autonomously transform and adapt to the environment, opening up new possibilities for future technological advancements. I lead a passionate and creative team, dedicated to merging technology with human life, and creating remarkable and far-reaching technological innovations. As the Chief Technology Officer of **Cyber Comedian**, I am passionate about pushing the boundaries of technology, translating future visions into reality, and creating a better and more intelligent world for people.
+As the Chief Technology Officer of **Cyber Comedian**, I focus on distributed robotics, mobile computing, and programmable matter. I am committed to creating innovative solutions for cutting-edge technologies, leading the team to achieve the integration of technology and human life, and working towards creating a better and smarter world.
+
