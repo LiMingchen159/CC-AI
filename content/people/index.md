@@ -14,7 +14,7 @@ sections:
           - Principal Investigators
           - 管理者 Administration
           - Grad Students
-          - Administration
+          - 合作项目伙伴 Cooperative project partners
           - Visitors
           - Alumni
       sort_by: Params.last_name
