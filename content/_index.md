@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        赛博笑匠
+        Cyber Comedian AI
       image:
-        filename: welcome.jpg
+        filename: Logo.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **赛博笑匠** 是一家深耕于仿生机器人、人工智能领域以及数字生命计划的科技公司，自2046年起迅速崛起，并成功成为世界领先、独一无二的科技巨头。
   
   - block: collection
     content:
