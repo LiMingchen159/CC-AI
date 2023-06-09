@@ -7,6 +7,15 @@ abstract: 赛博笑匠公司再次颠覆传媒行业，推出了一款引领智�
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2056-12-20'
 
+event: 新品发布
+
+location: 赛博笑匠公司总部
+address:
+  street: 123 号笑匠街
+  city: 新科技市
+  region: 网络区
+  postcode: '000000'
+  country: 中国
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
