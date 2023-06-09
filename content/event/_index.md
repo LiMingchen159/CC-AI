@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: 公司要闻 Latest News
 
 # Listing view
 view: compact
