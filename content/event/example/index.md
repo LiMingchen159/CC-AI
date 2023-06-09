@@ -5,7 +5,7 @@ abstract: 赛博笑匠公司再次颠覆传媒行业，推出了一款引领智�
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2056-12-20'
+date: '2056-12-20T08:00:00Z'
 
 event: 新品发布
 
