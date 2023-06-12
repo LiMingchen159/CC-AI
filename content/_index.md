@@ -60,7 +60,7 @@ sections:
     content:
       title:
       subtitle:
-      text: 
+      text: |
         {{% cta cta_text="111" cta_link="./people" cta_new_tab="false" %}}
     design:
       columns: '1'
