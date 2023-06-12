@@ -61,7 +61,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_text="111" cta_link="./people" cta_new_tab="false" %}}
+        {{< icon name="terminal" pack="fas" >}} Terminal  
     design:
       columns: '1'
 ---
