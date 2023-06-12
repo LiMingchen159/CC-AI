@@ -56,17 +56,12 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   
-  - block: features
+  - block: markdown
     content:
-      title: Skills
-      items:
-        - name: [python](https://wowchemy.com/docs/content/writing-markdown-latex/)
-          icon: python
-          icon_pack: fab
-        - name: R
-          icon: r-project
-          icon_pack: fab
-        - name: Latex
-          icon: code
-          icon_pack: fas
+      title:
+      subtitle:
+      text: |
+        [bilibili](https://wowchemy.com/docs/content/writing-markdown-latex/)
+    design:
+      columns: '1'
 ---
