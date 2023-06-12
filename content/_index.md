@@ -62,6 +62,8 @@ sections:
       subtitle:
       text: |
         [bilibili](https://wowchemy.com/docs/content/writing-markdown-latex/)
+        {{< figure src="image.jpg" caption="A caption" numbered="true" >}}
+
     design:
       columns: '1'
 ---
