@@ -33,8 +33,8 @@ sections:
       order: desc
       page_type: event
     design:
-      view: card
-      columns: '3'
+      view: showcase
+      columns: '2'
   
   - block: markdown
     content:
