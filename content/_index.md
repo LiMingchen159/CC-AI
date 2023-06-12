@@ -56,12 +56,4 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   
-   - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="我们的团队 Meet the Team →" %}}
-    design:
-      columns: '1'
 ---
