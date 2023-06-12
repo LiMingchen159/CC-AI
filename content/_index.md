@@ -61,6 +61,7 @@ sections:
       title:
       subtitle:
       text: |
+      {{< cta cta_text="我们的团队 Meet the team" cta_link="./people/" cta_new_tab="false" >}}
         > This is a blockquote.
     design:
       columns: '1'
