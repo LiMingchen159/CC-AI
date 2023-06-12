@@ -7,22 +7,22 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: 联系 Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
+        感谢您访问赛博笑匠AI公司的官方网站。我们非常期待与您进行沟通和合作。如果您有任何问题、建议或合作意向，请通过以下方式与我们联系：
+        
+        Thank you for visiting the official website of Cyber Comedian AI Company. We appreciate your interest and would be delighted to connect with you. If you have any questions, suggestions, or collaboration inquiries, please feel free to reach out to us through the following channels:
+      email: admin@ccai.love
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 123 号笑匠街 No. 123 Xiaoqi Street
+        city: 新科技市 New Technology
+        country: 中国 China
+        country_code: CN
       coordinates:
         latitude: '37.4275'
         longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: 1栋，2楼的201办公室 Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
