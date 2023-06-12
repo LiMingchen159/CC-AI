@@ -34,13 +34,13 @@ sections:
       page_type: event
     design:
       view: showcase
-      columns: '2'
+      columns: '1'
   
   - block: markdown
     content:
       title:
       subtitle: ''
-      text:
+      text:{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
     design:
       columns: '1'
       background:
@@ -55,5 +55,6 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
+  
   
 ---
