@@ -40,7 +40,7 @@ sections:
     content:
       title:
       subtitle: ''
-      text:> This is a blockquote.
+      text:
     design:
       columns: '1'
       background:
@@ -56,5 +56,12 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   
-  
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        > This is a blockquote.
+    design:
+      columns: '1'
 ---
