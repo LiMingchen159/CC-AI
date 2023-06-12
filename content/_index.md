@@ -22,7 +22,7 @@ sections:
       title: 公司要闻 Latest News
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -34,7 +34,7 @@ sections:
       page_type: event
     design:
       view: card
-      columns: '1'
+      columns: '3'
   
   - block: markdown
     content:
@@ -56,12 +56,4 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="我们的团队 Meet the Team →" %}}
-    design:
-      columns: '1'
 ---
