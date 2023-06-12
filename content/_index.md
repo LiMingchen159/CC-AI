@@ -60,8 +60,8 @@ sections:
     content:
       title:
       subtitle:
-      text: |
-        {{< cta cta_text="我们的团队 Meet the team" cta_link="./content/people" cta_new_tab="false" >}}
+      text: 
+        {{% cta cta_text="111" cta_link="./people" cta_new_tab="false" %}}
     design:
       columns: '1'
 ---
