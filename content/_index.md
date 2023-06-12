@@ -56,12 +56,17 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   
-  - block: markdown
+  - block: features
     content:
-      title:
-      subtitle:
-      text: |
-        {{< icon name="terminal" pack="fas" >}} Terminal  
-    design:
-      columns: '1'
+      title: Skills
+      items:
+        - name: [python](https://wowchemy.com/docs/content/writing-markdown-latex/)
+          icon: python
+          icon_pack: fab
+        - name: R
+          icon: r-project
+          icon_pack: fab
+        - name: Latex
+          icon: code
+          icon_pack: fas
 ---
