@@ -40,7 +40,7 @@ sections:
     content:
       title:
       subtitle: ''
-      text:{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+      text:> This is a blockquote.
     design:
       columns: '1'
       background:
