@@ -46,10 +46,13 @@ sections:
       text: |
         👋 欢迎关注我们**赛博笑匠**官方的媒体帐号
         👋 Free to follow us **Cyber Comedian** official media account
-      design:
-    background:
-      # Choose a color such as from https://html-color-codes.info
-      color: 'navy'
-      # Text color (true=light, false=dark, or remove for the dynamic theme color). 
-      text_color_light: true
+    design:
+      background:
+        # Choose colors such as from https://html-color-codes.info
+        gradient_start: '#4bb4e3'
+        gradient_end: '#2b94c3'
+        # The gradient angle from 0-360 degrees
+        gradient_angle: 180
+        # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        text_color_light: true
 ---
