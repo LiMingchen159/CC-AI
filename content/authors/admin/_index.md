@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 赛博笑匠官方 <br> Cyber Comedian Offcial
+title: 赛博笑匠官方 Cyber Comedian Offcial
 
 # Full Name (for SEO)
 first_name: Cyber
