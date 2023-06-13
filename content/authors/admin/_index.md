@@ -1,6 +1,6 @@
 ---
 # Display name
-title: **赛博笑匠官方 Cyber Comedian Offcial**
+title: 赛博笑匠官方 Cyber Comedian Offcial
 
 # Full Name (for SEO)
 first_name: Cyber
@@ -33,7 +33,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: /contact
   - icon: bilibili
     icon_pack: fab
     link: https://bilibili.com
@@ -48,7 +48,8 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-
+status:
+  icon: 💯
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
