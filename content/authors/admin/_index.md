@@ -31,15 +31,24 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /contact
   - icon: bilibili
     icon_pack: fab
     link: https://bilibili.com
+  - icon: youtube
+    icon_pack: fab
+    link: https://youtube.com
+  - icon: tiktok
+    icon_pack: fab
+    link: https://github.com/LiMingchen159/Just-a-joke
+  - icon: weibo
+    icon_pack: fab
+    link: https://github.com/LiMingchen159/Just-a-joke
+  - icon: envelope
+    icon_pack: fas
+    link: /contact
   - icon: weixin
     icon_pack: fab
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://github.com/LiMingchen159/Just-a-joke
   - icon: github
     icon_pack: fab
     link: https://github.com/LiMingchen159/Just-a-joke
