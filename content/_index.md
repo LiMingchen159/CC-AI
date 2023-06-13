@@ -45,14 +45,15 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: |
         👋 欢迎关注我们**赛博笑匠**官方的媒体帐号
+        <br>
         👋 Free to follow us **Cyber Comedian** official media account
     design:
       background:
         # Choose colors such as from https://html-color-codes.info
-        gradient_start: '#4bb4e3'
-        gradient_end: '#2b94c3'
+        gradient_start: '#CCFBFF'
+        gradient_end: '#EF96C5'
         # The gradient angle from 0-360 degrees
-        gradient_angle: 180
+        gradient_angle: 90
         # Text color (true=light, false=dark, or remove for the dynamic theme color).
         text_color_light: true
 ---
