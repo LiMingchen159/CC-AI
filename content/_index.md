@@ -50,8 +50,8 @@ sections:
     design:
       background:
         # Choose colors such as from https://html-color-codes.info
-        gradient_start: '#CCFBFF'
-        gradient_end: '#EF96C5'
+        gradient_start: '#0C7BB3'
+        gradient_end: '#F2BAE8'
         # The gradient angle from 0-360 degrees
         gradient_angle: 90
         # Text color (true=light, false=dark, or remove for the dynamic theme color).
