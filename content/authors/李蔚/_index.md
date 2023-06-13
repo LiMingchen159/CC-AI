@@ -1,30 +1,41 @@
 ---
 # Display name
-title: 赛博笑匠官方 Cyber Comedian Offcial
+title: Victor LI 李蔚
 
 # Full Name (for SEO)
-first_name: Cyber
-last_name: Comedian
+first_name: Victor
+last_name: LI
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 
+role: 首席技术官 CTO
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: 清北大学 Tsingbei University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 作为赛博笑匠公司的首席技术官，我专注于分布式机器人、移动计算和可编程物质的研究。我致力于创造前沿科技的创新解决方案，引领团队实现科技与人类生活的融合，为创造更美好、智能化的世界努力。
 
 interests:
-
+  - 人工智能 Artificial Intelligence
+  - 计算语言学 Computational Linguistics
+  - 信息检索 Information Retrieval
 
 education:
-
+  courses:
+    - course: 人工智能专业博士 PhD in Artificial Intelligence
+      institution: 清北大学 Tsingbei University
+      year: 2012
+    - course: 人工智能专业硕士 MEng in Artificial Intelligence
+      institution: 清北大学 Tsingbei University
+      year: 2009
+    - course: 人工智能专业本科 BSc in Artificial Intelligence
+      institution: 清北大学 Tsingbei University
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -58,6 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+  - 管理者 Administration
 ---
 
 作为**赛博笑匠**公司的首席技术官，我专注于分布式机器人、移动计算和可编程物质的研究。我致力于创造前沿科技的创新解决方案，引领团队实现科技与人类生活的融合，为创造更美好、智能化的世界努力。
