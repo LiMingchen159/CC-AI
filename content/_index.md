@@ -36,7 +36,7 @@ sections:
       view: showcase
       columns: '1'
   
-  - block: markdown
+<!--   - block: markdown
     content:
       title:
       subtitle: ''
@@ -55,15 +55,12 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  
-  - block: markdown
+   -->
+  - block: about.avatar
+    id: about
     content:
-      title:
-      subtitle:
-      text: |
-        [bilibili](https://wowchemy.com/docs/content/writing-markdown-latex/)
-        {{< figure src="image.jpg" caption="A caption" numbered="true" >}}
-
-    design:
-      columns: '1'
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      # Override your bio text from `authors/admin/_index.md`?
+      text:
 ---
