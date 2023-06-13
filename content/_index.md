@@ -44,6 +44,12 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: |
-        👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-        {style="font-size: 1.2rem; color: #FFB76B;} 
+        👋 欢迎关注我们**赛博笑匠**官方的媒体帐号
+        👋 Free to follow us **Cyber Comedian** official media account
+      design:
+    background:
+      # Choose a color such as from https://html-color-codes.info
+      color: 'navy'
+      # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+      text_color_light: true
 ---
