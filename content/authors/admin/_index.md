@@ -58,9 +58,4 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
----
-
-作为**赛博笑匠**公司的首席技术官，我专注于分布式机器人、移动计算和可编程物质的研究。我致力于创造前沿科技的创新解决方案，引领团队实现科技与人类生活的融合，为创造更美好、智能化的世界努力。
-
-As the Chief Technology Officer of **Cyber Comedian**, I focus on distributed robotics, mobile computing, and programmable matter. I am committed to creating innovative solutions for cutting-edge technologies, leading the team to achieve the integration of technology and human life, and working towards creating a better and smarter world.
 
