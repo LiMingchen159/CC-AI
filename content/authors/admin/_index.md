@@ -33,16 +33,16 @@ education:
 social:
   - icon: bilibili
     icon_pack: fab
-    link: https://bilibili.com
-  - icon: youtube
-    icon_pack: fab
-    link: https://youtube.com
+    link: https://space.bilibili.com/3494361281071444?spm_id_from=333.337.0.0
+  #- icon: youtube
+#    icon_pack: fab
+#    link: https://youtube.com
   - icon: tiktok
     icon_pack: fab
     link: https://github.com/LiMingchen159/Just-a-joke
-  - icon: weibo
-    icon_pack: fab
-    link: https://github.com/LiMingchen159/Just-a-joke
+#  - icon: weibo
+#    icon_pack: fab
+#    link: https://github.com/LiMingchen159/Just-a-joke
   - icon: envelope
     icon_pack: fas
     link: /contact
